@@ -1,7 +1,7 @@
-import ScamShield from "./ScamShield";
+import AskAnything from "./AskAnything";
 
 function App() {
-  return <ScamShield />;
+  return <AskAnything />;
 }
 
 export default App;
